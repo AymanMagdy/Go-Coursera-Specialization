@@ -14,5 +14,7 @@
 ## Concurrency in Go [ Third Course ]
 
 ```
+    - StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+    
     - Contains the tasks of the third course in the Specialization, and basically this course <br /> is about how to implement concurrent programming in Go. Explore the roles of <br /> channels and goroutines in implementing concurrency. Topics include writing goroutines and <br /> implementing channels for communications between goroutines. Course activities will <br /> allow you to exercise Go’s capabilities for concurrent programming by developing <br /> several example programs.
 ```
