@@ -30,6 +30,7 @@ func main() {
 	Bird := Animal{"Worms", "Fly", "Peep"}
 	Snake := Animal{"Mice", "Slither", "Hss"}
 
+	// Testing the created animals
 	Cow.Eat()
 	Bird.Move()
 	Snake.Speak()
