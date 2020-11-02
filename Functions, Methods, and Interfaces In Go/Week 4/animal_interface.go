@@ -7,7 +7,7 @@ import (
 // The Animal struct interface with 3 string fields
 type Animal struct {
 	food 		string
-	moveType	string
+	locomtion	string
 	sound 		string
 }
 
@@ -17,7 +17,7 @@ func (animal Animal) Eat() {
 }
 
 func (animal Animal) Move() {
-	fmt.Println(animal.moveType)
+	fmt.Println(animal.locomtion)
 }
 
 func (animal Animal) Speak() {
